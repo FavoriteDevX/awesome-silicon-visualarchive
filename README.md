@@ -32,6 +32,12 @@ A visual museum of the computer chips that run our world—packaged with a bit o
 
 ---
 
+## Windows (versions stickers, guess it will be good to include too)
+
+<img width="1080" height="160" alt="image" src="https://github.com/user-attachments/assets/cf782e44-4199-4bf1-90a7-45f46f591d27" />
+
+---
+
 ## TSMC
 
 <img width="1019" height="136" alt="image" src="https://github.com/user-attachments/assets/d4c1e38f-828d-45ee-8b65-7e1c1e85e6b0" />
