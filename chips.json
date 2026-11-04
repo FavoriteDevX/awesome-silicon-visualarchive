@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Apple M1",
+    "manufacturer": "Apple",
+    "year": 2020,
+    "process_node": "5nm",
+    "architecture": "ARM",
+    "humor_fact": "Silenced laptop fans globally. Made Intel highly uncomfortable.",
+    "image_path": "processors/apple/m1.jpg"
+  },
+  {
+    "name": "Intel Core i9-14900K",
+    "manufacturer": "Intel",
+    "year": 2024,
+    "process_node": "Intel 7",
+    "architecture": "x86_64",
+    "humor_fact": "Doubles as a space heater during winter. Liquid cooling mandatory.",
+    "image_path": "processors/intel/i9-14900k.png"
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D",
+    "manufacturer": "AMD",
+    "year": 2023,
+    "process_node": "5nm",
+    "architecture": "x86_64",
+    "humor_fact": "The undisputed king of gaming frames. Feeds on 3D V-Cache magic.",
+    "image_path": "processors/amd/ryzen-7-7800x3d.jpg"
+  },
+  {
+    "name": "NVIDIA H100",
+    "manufacturer": "NVIDIA",
+    "year": 2023,
+    "process_node": "4nm",
+    "architecture": "Hopper",
+    "humor_fact": "The reason why every startup is suddenly pivoting to AI. Worth its weight in gold.",
+    "image_path": "processors/nvidia/h100.jpg"
+  }
+]
